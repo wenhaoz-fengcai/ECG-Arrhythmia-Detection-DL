@@ -11,6 +11,9 @@
  2. [Romdhane_paper_replication](Romdhane_paper_replication.ipynb): Train and test [Romdhane model](https://doi.org/10.1016/j.compbiomed.2020.103866) for both inter and intra patient paradigm
  3. [STFT_Resnet](STFT_Resnet.ipynb): Train and test our proposed model for inter patient paradigm
 
+## Detail paper of our model
+https://arxiv.org/ftp/arxiv/papers/2206/2206.14200.pdf
+
 ## References
  1. Kachuee paper:  Kachuee, M., Fazeli, S., & Sarrafzadeh, M. (2018, June). Ecg heartbeat classification: A deep transferable representation. In 2018 IEEE international conference on healthcare informatics (ICHI) (pp. 443-444). IEEE.
  2. Romdhane paper: Romdhane, T. F., & Pr, M. A. (2020). Electrocardiogram heartbeat classification based on a deep convolutional neural network and focal loss. _Computers in Biology and Medicine_, _123_, 103866.
